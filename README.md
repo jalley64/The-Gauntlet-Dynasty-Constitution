@@ -120,9 +120,9 @@ If a team does not pay their dues by the designated date they are not eligible t
 ### Free Agency ###
 
 - Each team will receive $200 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
+- Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
-- FAAB dollars are not tradeable
+- FAAB dollars are tradeable
 - There is a one day waiting period for waivers to clear
 - Free agency locks a week after the championship ends, through the end of the rookie draft. 
 

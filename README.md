@@ -238,6 +238,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - Smack talk is a great part of the game. However please do not be hateful or bully other members. 
 - Treat eachother with respect. 
 - That means responding to trade offers, but it also means fucking off and not sending them if the person says they aren't interested in trading. 
+- You are expected to field your best roster. Obviously sit/starts are subjective, but players fielding intentionally bad rosters for the sake of tanking, while having objectively players on the bench, will not be tolerated.
 
 
 ## __Section XIII - Ammendments__ ##

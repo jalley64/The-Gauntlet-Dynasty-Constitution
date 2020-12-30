@@ -123,7 +123,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 3 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 14 | No Limi
+   BE | 18 | No Limi
    IR | 2 | No Limit
    Taxi| 3 | Only Rookies
    
